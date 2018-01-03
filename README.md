@@ -4,7 +4,7 @@ first test repository
 Hi!
 I like coding, 
 especially web based coding.
-i am just a student,
+I am just a student,
 learning stuff.
 hehe
 ...
